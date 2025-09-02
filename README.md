@@ -11,4 +11,4 @@ I'm a computer science student with a passion for software development, hardware
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobithl&layout=compact&theme=radical)
 
 ## 📫 Contact
-Feel free to reach out via [tobithl.github.io](tobithl.github.io).
+Feel free to reach out via [tobithl.github.io](https://tobithl.github.io/).
