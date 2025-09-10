@@ -1,6 +1,6 @@
 # Hi, I'm Tobias! 👋
 
-I'm a computer science student with a passion for software development, hardware, and innovative technologies.
+I'm a computer science student focusing on technical systems, especially in the fields of Autonomous Systems and Artificial Intelligence. I enjoy solving complex real-world problems through efficient software and hardware integration.
 
 ## 🚀 Technologies
 **Programming Languages:** Python, C/C++, Java, Dart  
