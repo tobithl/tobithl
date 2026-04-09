@@ -4,7 +4,7 @@ I'm a computer science student focusing on technical systems, especially in the 
 
 ## 🚀 Technologies
 **Programming Languages:** Python, C/C++, Java, Dart  
-**Frameworks & Tools:** Arduino Core, ESP-IDF, Flutter
+**Frameworks & Tools:** ESP-IDF, Flutter, Arduino Core
 
 ## 📊 GitHub Stats
 ![Tobias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobithl&show_icons=true&hide_title=true&count_private=true&theme=radical)
